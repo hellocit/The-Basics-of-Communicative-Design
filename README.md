@@ -27,20 +27,20 @@
 * ベクター形式
 
 ## chap4 レイアウトと配色の法則
-余白を取る
-揃えて配置する
-グループ化する
-強弱をつける
-繰り返す
-情報を構造に即したレイアウト
-視線の流れを意識したレイアウト
-写真や図の扱い方
-余計な要素やノイズを減らす
+* 余白を取る
+* 揃えて配置する
+* グループ化する
+* 強弱をつける
+* 繰り返す
+* 情報を構造に即したレイアウト
+* 視線の流れを意識したレイアウト
+* 写真や図の扱い方
+* 余計な要素やノイズを減らす
 
 
 ## chap5 実践
 * ルールを守ろう
 * スライドマスター
 ## 自分用
-チェックポイントの写真を取る
-https://lab.ueda.tech/?page=document_checklist
+* https://lab.ueda.tech/?page=document_checklist
+* https://docs.google.com/document/d/1b53TozrU2WYbrG1xgT50B_ULVHhcnVqBn1294RBqsbA/edit#
